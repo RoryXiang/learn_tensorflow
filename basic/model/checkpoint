@@ -1,0 +1,2 @@
+model_checkpoint_path: "ppp.mdel"
+all_model_checkpoint_paths: "ppp.mdel"
